@@ -1,0 +1,31 @@
+Arrays:
+
+Object Essentials:-
+
+NumPy provides two fundamental objects: an N-dimensional array object
+(ndarray) and a universal function object (ufunc). 
+
+An N-dimensional array is a homogeneous collection of “items” indexed using N
+integers
+
+There are two essential pieces of information that define an N-dimensional
+array: 1) the shape of the array, and 2) the kind of item the array is composed of.
+
+The shape of the array is a tuple of N integers (one for each dimension) that
+provides information on how far the index can vary along that dimension.
+
+
+Every ndarray is a homogeneous collection of exactly the
+same data-type, every item takes up the same size block of memory, and each block
+of memory in the array is interpreted in exactly the same way1
+     -------------------------------
+
+Data-Type Descriptors:-
+
+
+
+
+
+
+
+
